@@ -1,34 +1,34 @@
 
-<h1 align="center">Hi 👋, I'm Ayush Jaiswal</h1>
+<h1 align="center">Hi, I'm Ayush Jaiswal</h1>
 <h3 align="center">🚀 Passionate Developer | Python & Django Enthusiast | Tech Explorer</h3>
 
 ---
 
-## 🌟 About Me
-- 🎓 Computer Science Student
-- 💻 Currently learning **Django, APIs, and Backend Development**
-- 🔍 Interested in **System Design, AI, and Automation**
-- ⚡ Love exploring **Linux, Hardware, and Custom Tech Projects**
-- 🎯 Goal: Become a **System Builder**
+##  About Me
+-  Computer Science Student
+-  Currently learning **Django, APIs, and Backend Development**
+-  Interested in **System Design, AI, and Automation**
+-  Love exploring **Linux, Hardware, and Custom Tech Projects**
+-  Goal: Become a **System Builder**
 
 ---
 
-## 🛠️ Tech Stack
-### 💻 Languages
-- Python 🐍
-- Java ☕
+##  Tech Stack
+###  Languages
+- Python 
+- Java 
 - C++
 
-### 🌐 Web Development
+###  Web Development
 - Django
 - Django REST Framework
 - HTML, CSS, JavaScript
 
-### 🗄️ Databases
+###  Databases
 - MySQL
 - SQLite
 
-### ⚙️ Tools & Technologies
+###  Tools & Technologies
 - Git & GitHub
 - Linux (Ubuntu)
 - Docker (Learning)
@@ -36,20 +36,20 @@
 
 ---
 
-## 🚀 Projects
-### 📄 Smart Document Intelligence System
+##  Projects
+###  Smart Document Intelligence System
 - Upload and summarize PDFs using AI
 - Handles large files with chunking & OCR
 - Built with Django + AI APIs
 
-### 📝 Blog API (Django REST)
+###  Blog API (Django REST)
 - Full CRUD operations
 - Search, Filter, Ordering
 - Authentication system
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ayush-jaiswal23&show_icons=true&theme=radical" alt="stats" />
 </p>
@@ -60,17 +60,16 @@
 
 ---
 
-## 📈 Contribution Graph
+##  Contribution Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayush-jaiswal23&theme=react-dark" />
 </p>
 
 ---
 
-## 🌐 Connect With Me
-- 💼 LinkedIn: www.linkedin.com/in/ayush-jaiswal-302166355
-- 📧 Email: ayushjaiswal2378@gmail.com
-- 🌍 Portfolio: Coming Soon...
+##  Connect With Me
+-  LinkedIn: www.linkedin.com/in/ayush-jaiswal-302166355
+-  Email: ayushjaiswal2378@gmail.com
 
 ---
 
