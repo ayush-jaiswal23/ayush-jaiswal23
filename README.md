@@ -36,17 +36,25 @@
 
 ---
 
-##  Projects
-###  Smart Document Intelligence System
+##  Projects (Currently in Progress)
+###  Smart Document Intelligence System _(In Progress)_
+> Building an AI-powered system to process and summarize large PDF files
+
 - Upload and summarize PDFs using AI
 - Handles large files with chunking & OCR
 - Built with Django + AI APIs
 
-###  Blog API (Django REST)
-- Full CRUD operations
-- Search, Filter, Ordering
-- Authentication system
+###  Blog API (Django REST) _(In Progress)_
+> Developing a scalable backend API
 
+**Implemented So Far:**
+-   CRUD APIs
+-   Search using `Q` objects  
+-   Filtering & Ordering
+  
+-   Authentication (in progress)    
+-   Optimization & pagination
+    
 ---
 
 ##  GitHub Stats
@@ -73,7 +81,7 @@
 
 ---
 
-## 💡 Fun Fact
+##  Fun Fact
 > "I don’t just write code, I build solutions and explore how things work under the hood."
 
 ---
