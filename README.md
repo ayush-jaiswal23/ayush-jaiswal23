@@ -5,7 +5,7 @@
 ---
 
 ## 🌟 About Me
-- 🎓 Computer Science Student (3rd Year)
+- 🎓 Computer Science Student
 - 💻 Currently learning **Django, APIs, and Backend Development**
 - 🔍 Interested in **System Design, AI, and Automation**
 - ⚡ Love exploring **Linux, Hardware, and Custom Tech Projects**
