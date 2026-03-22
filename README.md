@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi, I'm Ayush Jaiswal</h1>
-<h3 align="center">🚀 Passionate Developer | Python & Django Enthusiast | Tech Explorer</h3>
+<h3 align="center">Passionate Developer | Python & Django Enthusiast | Tech Explorer</h3>
 
 ---
 
