@@ -9,7 +9,7 @@
 - 💻 Currently learning **Django, APIs, and Backend Development**
 - 🔍 Interested in **System Design, AI, and Automation**
 - ⚡ Love exploring **Linux, Hardware, and Custom Tech Projects**
-- 🎯 Goal: Become a **Full Stack Developer + System Builder**
+- 🎯 Goal: Become a **System Builder**
 
 ---
 
